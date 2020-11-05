@@ -5,3 +5,4 @@ Prueba número 4. Tengo:
 5 papayas.
 
 Solo vendo frutas.
+No vendo verduras porque están muy costosas. 8 9 10
