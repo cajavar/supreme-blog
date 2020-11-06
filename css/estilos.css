@@ -3,4 +3,21 @@ body
     color: deepskyblue;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+#ppal
+{
+    align-content: center;
+    width: 50%;
+    padding: 1em;
+    text-align: left;
+    border: 1px groove lightgrey;   
+    margin: 0 auto;
+}
+
+#post h1
+{
+    color: grey;
+    font-size: 30px;
 }
